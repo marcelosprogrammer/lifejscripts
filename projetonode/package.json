@@ -1,0 +1,14 @@
+{
+  "name": "usandonode",
+  "version": "1.0.0",
+  "description": "projeto criado com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcelo da silva",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
