@@ -9,6 +9,6 @@
   "author": "marcelo da silva",
   "license": "ISC",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.1"
   }
 }
